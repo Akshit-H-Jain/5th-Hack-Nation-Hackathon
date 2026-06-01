@@ -1,1 +1,2 @@
-# 5th-Hack-Nation-Hackathon
+# aethena
+# æthena - your self-learning AI co-scientist
